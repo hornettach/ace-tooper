@@ -1,0 +1,23 @@
+{
+  "name": "ace-tooper",
+  "version": "1.0.0",
+  "description": "ace-tooper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hornettach/ace-tooper.git"
+  },
+  "dependencies": {
+    "bimmers-tea": "1.0.0",
+    "minti_fulkerson": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hornettach/ace-tooper/issues"
+  },
+  "homepage": "https://github.com/hornettach/ace-tooper#readme"
+}
